@@ -12,6 +12,6 @@ export class AppComponent {
 
   Evento01(){
     this.title = "Clicou"
-    alert("Enviando");
+    alert("Enviando com sucesso!");
   }
 }
