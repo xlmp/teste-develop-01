@@ -1,0 +1,11 @@
+
+h1 {
+    display: inline-block;
+    font-family:Arial;
+    font-size: 32px;
+    font-weight: 700;
+    color:#1d0202;
+    background:rgb(37, 148, 61);
+padding: 5px 10px;
+border: radius 8px;
+}
